@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'c:/Users/linke/OneDrive - SBL/inf-projects/latex-project-kaethe/06-data-ethics-and-ai-kaethe07/documents/build/tutorial.blg'
+[358] biber-MSWIN64:340> INFO - === 
+[459] Biber.pm:419> INFO - Reading 'c:/Users/linke/OneDrive - SBL/inf-projects/latex-project-kaethe/06-data-ethics-and-ai-kaethe07/documents/build/tutorial.bcf'
+[672] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[701] bbl.pm:660> INFO - Writing 'c:/Users/linke/OneDrive - SBL/inf-projects/latex-project-kaethe/06-data-ethics-and-ai-kaethe07/documents/build/tutorial.bbl' with encoding 'UTF-8'
+[702] bbl.pm:763> INFO - Output to c:/Users/linke/OneDrive - SBL/inf-projects/latex-project-kaethe/06-data-ethics-and-ai-kaethe07/documents/build/tutorial.bbl
+[704] Biber.pm:131> WARN - The file 'c:/Users/linke/OneDrive - SBL/inf-projects/latex-project-kaethe/06-data-ethics-and-ai-kaethe07/documents/build/tutorial.bcf' does not contain any citations!
+[704] Biber.pm:133> INFO - WARNINGS: 1
