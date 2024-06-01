@@ -9,13 +9,14 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{caption}
+\usepackage{url}
 
 \usepackage[
     backend=biber,
     style=apa,
     sortlocale=de_DE,
     natbib=true,
-    url=false,
+    url=true,
     doi=false,
     sortcites=true,
     sorting=nyt,
@@ -37,9 +38,9 @@
 \maketitle
 
 \abstract{
-    In diesem Dokument werde ich mich mit der Frage beschäftigen, ob der Einsatz von 
-Künstliche Intelligenz (KI) ethisch vertretbar ist oder nicht, um was man tun müsste
-sodamit sie ethisch bleibt. 
+In diesem Dokument werde ich die Frage untersuchen, ob der Einsatz von 
+Künstlicher Intelligenz (KI) ethisch vertretbar ist und welche
+Möglichkeiten und Herausforderungen damit verbunden sind.
 }
 
 \tableofcontents
@@ -50,19 +51,20 @@ sodamit sie ethisch bleibt.
   
 Künstliche Intelligenz (KI) ist die Fähigkeit einer Maschine, menschliche Fähigkeiten
 wie logisches Denken, Lernen, Planen und Kreativität zu imitieren. KI ist einer der 
-großen technologischen Fortschritte unserer Zeit. Ihre Entwicklung schreitet 
+grossen technologischen Fortschritte unserer Zeit. Ihre Entwicklung schreitet 
 rasant voran und die Einsatzmöglichkeiten nehmen zu. KI ist ein wichtiger Bestandteil nicht nur in der 
 Informatik,sondern auch vieler anderer Bereiche unseres Lebens. 
 \newline
 KI wird zum Beispiel,... 
 \begin{enumerate}
-    \item in der Bildung verwendet. Adaptive Lernplatformen wie Knewton, Quizlet und Duolingo bildet 
+    \item in der Bildung verwendet. Adaptive Lernplatformen wie Knewton, Quizlet und Duolingo
     bieten Nutzer individuelle Lernsysteme. Sie können mit automatisierte Tutoren, die Schülern bei 
     ihren Aufgaben helfen.
     \item in der Architektur verwendet. Sie kann zum Beispiel Gebäudeentwürfe generieren.
     \item in der Kunst verwendet. KI kann mithilfe von generative Modelle, Kunstwerke erstellen oder 
     auch mit KI-Programme, Musik komponieren.
-    \item in der Medizin verwendet. KI kann verwendet werden um Krankheiten zu diagnostizieren. Es kann auch genutzt werden um relevante Muster in digitalisierten medizinischen 
+    \item in der Medizin verwendet. KI kann verwendet werden um Krankheiten zu diagnostizieren. 
+    Es kann auch genutzt werden um relevante Muster in digitalisierten medizinischen 
     Daten zu finden und präzise Entscheidungen zu treffen.
 \end{enumerate}
 
@@ -77,10 +79,10 @@ KI wird zum Beispiel,...
 \section {Wie wird KI trainiert?}
 
 KI-Modelle werden in der Regel durch einen Prozess des maschinellen Lernens trainiert, 
-der in drei Hauptschritte unterteilt werden kann. Der Trainingprozess beginnt mit der Datensammung, 
+der in drei Hauptschritte unterteilt werden kann. Der Trainingprozess beginnt mit der Datensammlung, 
 bei der ein Computeralgorithmus mit einer grossen Menge an Daten gefüttert wird, die für die Erstellung 
 von Vorhersagen und deren Genauigkeit notwendig sind. Diese Daten können strukturiert (z.B. Tabellen) oder 
-unstrukturiert (z.B. Texte) sein.Während des Trainings wird das Modell beigebracht, verschiedene Merkmale 
+unstrukturiert (z.B. Texte) sein. Während des Trainings wird das Modell beigebracht, verschiedene Merkmale 
 in den Daten zu erkennen, indem es seine internen Parameter anpasst, um Fehler bei der Vorhersage 
 zu minimieren. \\ Im zweiten Schritt findet ein Validierungsprozess statt, bei dem bewertet wird, wie gut 
 das trainierte Modell zuvor ungesehene Daten abschneidet. Schliesslich wird das Modell mit neuen, bisher 
@@ -88,7 +90,7 @@ ungesehenen Daten getestet, um zu überprüfen, ob es genaue Vorhersahen treffen
 \citep{clickworker}
 \\
 Jedoch ist zu beachten, dass bei der Datensammlung und Datenverwendeung, Datenschutzrichtlinien und -gesetze 
-eingehalten werden, um zu sicherzustellen, dass die Privatsphäre und die Rechte von Personen respektiert 
+eingehalten werden, um sicherzustellen, dass die Privatsphäre und die Rechte von Personen respektiert 
 werden. Ein anderer wichtiger Aspekt, dass beachtet werden sollte, ist das die Funktionsweise und die 
 Entscheidungen, die das System trifft, verständlich und nachvollziehbar ist. Ist das nicht der Fall, 
 dann können Probleme wie Skepsis und Ablehnung auftreten. 
@@ -123,7 +125,7 @@ vielfältige Möglichkeiten sondern auch Herausforderungen.\\ Einige Gebiete wo 
     \centering
     \includegraphics[width=0.32\textwidth]{fotitooppa.jpg}
     \label{fig:fotitooppa}
-    \caption{Dieses Bild zeigt an wie KI im Gesundheitswesen verwendet wird.}
+    \caption{Dieses Bild zeigt auf, wie KI im Gesundheitswesen verwendet wird.}
 \end{figure}
 
 Bei der Anwendung von KI im Gesundheitsbereich, werden Medizin-\\produkte und Nicht-Medizinprodukte 
@@ -135,7 +137,7 @@ auf Gesundheit und Wohlbefinden, jedoch keine medizinische Zweckbestimmung haben
 eingesetzt werden. Sie müssen weniger strengen Vorschriften, jedoch grundlegenden Sicherheits- und Datenschutzstandards
 einhalten. Beispiele: Fitness-Apps und Wearables.
 \item \underline{Medizinprodukte:} \\Dies sind Geräte, Software oder Anwendungen die speziell für medizinische Zwecke 
-entwickelt und verwendet werden.Sie werden zur Diagnose, Behandlung oder Überwachung von Krankheiten eingesetzt.
+entwickelt und verwendet werden. Sie werden zur Diagnose, Behandlung oder Überwachung von Krankheiten eingesetzt.
 Um sicher und effektiv zu sein, müssen sie strenge Vorschriften einhalten und häufig behördliche Genehmigungen wie die der EMA 
 in Europa erhalten. Beispiele: diagnostische Geräte wie MRTs und Blutzuckermessgeräte sowie therapeutische Geräte
 wie Beatmungsgeräte.
@@ -145,7 +147,7 @@ wie Beatmungsgeräte.
     \centering
     \includegraphics[width=0.50\textwidth]{Bild13.jpg}
     \caption{Dieses Bild soll das Spektrum der Anwendungen von KI im Gesundheitsbereich darstellen. Die rechte Seite des Spektrums (türkis eingefärbt)
-    zeigt die Medizinprodukten auf. Auf der linke Seite (grün eingefärbt) werden die Nicht-Medizinprodukten angezeigt.}
+    zeigt die Medizinprodukten auf. Auf der linke Seite (grün eingefärbt) werden die Nicht-Medizinprodukten aufgezeigt.}
     \label{fig:Bildmedizin}
 \end{figure}
 
@@ -173,7 +175,7 @@ Neben den Problemen des Datenschutzes und der Sicherheit können auch Herausford
 Patientendiagnose verwendet werden. KI sind darauf angewiesen, aus den gesammelten und gespeicherten Daten, 
 Krankheiten bei Patienten zu indetifizieren. Tritt aber der Fall vor, dass unzureichende Daten zu bestimmten Krankheiten 
 vorliegen, kann dies zu eine Fehldiagnose führen. Dies gefährdet nicht nur das Leben des Patienten, sondern stellt das medizinische 
-Fachpersonal von erhebliche Schwierigkeiten. Solche Fehldiagnosen können zu Skepsis und Ablehnung in die Technologie von Bevölkerung bringen
+Fachpersonal von erhebliche Schwierigkeiten. Solche Fehldiagnosen können zu Skepsis und Ablehnung in die Technologie von der Bevölkerung bringen
 und somit die Verantwortung für medizinische Entscheidungen verkomplizieren. Deswegen ist es von entscheidender Bedeutung, 
 dass KI-Systeme kontinuierlich mit aktuellen und umfassend Daten gefüttert werden, kontinuierlich überwacht und angepasst werden, um sicherzustellen, dass sie korrekt und zuverlässig funktionieren
 und die endgültige Diagnose von ein menschlicher Arzt überprüft wird. Nur so kann man gewährleisten, dass die Vorteile
@@ -188,12 +190,6 @@ Datenschutz, Sicherheit und die menschliche Verantwortung bei Entscheidungen sin
 dass die Daten von Patienten angemessen gesichert und privat bleiben und dass KI-gestützte
 Diagnosen und Entscheidungen immer von menschlichen Fachkräften überprüft und geleitet werden. Nur auf die Weise
 kann man sicherstellen, die Anwendung von KI ethisch vertretbar bleibt.
-
-
-
-
-
-
 
 
 
