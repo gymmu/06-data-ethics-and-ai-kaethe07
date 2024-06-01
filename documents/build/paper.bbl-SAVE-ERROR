@@ -1,0 +1,213 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{clickworker}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=339b1e0ee27729c19d8a83a99c0e3835}{%
+           family={clickworker},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{bibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorbibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authornamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on 17.5.2024}
+      \field{title}{Wie Künstliche Intelligenz Systeme trainiert werden}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+      \verb{url}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+    \endentry
+    \entry{mauriceneumann.de}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a0dc5ce03d96cf84d102f2ce041520b}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{fullhash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{bibnamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authorbibnamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authornamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authorfullhash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on 17.5.2024}
+      \field{title}{Künstliche Intelligenz im Einsatz: Branchen und Anwendungsgebiete}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://mauriceneumann.de/kuenstliche-intelligenz-im-einsatz-branchen-und-anwendungsgebiete/#:~:text=K%C3%BCnstliche%20Intelligenz%20im%20Einsatz%3A%20Branchen%20und%20Anwendungsgebiete%201,Behandlung%2C%20Robotik%20Diagnoseunterst%C3%BCtzung%202%20Behandlungsoptimierung%203%20Robotergest%C3%BCtzte%20Chirurgie
+      \endverb
+      \verb{url}
+      \verb https://mauriceneumann.de/kuenstliche-intelligenz-im-einsatz-branchen-und-anwendungsgebiete/#:~:text=K%C3%BCnstliche%20Intelligenz%20im%20Einsatz%3A%20Branchen%20und%20Anwendungsgebiete%201,Behandlung%2C%20Robotik%20Diagnoseunterst%C3%BCtzung%202%20Behandlungsoptimierung%203%20Robotergest%C3%BCtzte%20Chirurgie
+      \endverb
+    \endentry
+    \entry{clutch}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b7db5f2c050f6baa8fbd36b42ab748d}{%
+           family={Singh\bibnamedelima Rawat},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Manvirender},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{fullhash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{bibnamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authorbibnamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authornamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authorfullhash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accesed on 30.5.2024}
+      \field{title}{Die Vor- und Nachteile von KI/ML im Gesundheitswesen}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cynoteck.com/de/blog-post/the-pros-and-cons-of-ai-in-healthcare/
+      \endverb
+      \verb{url}
+      \verb https://cynoteck.com/de/blog-post/the-pros-and-cons-of-ai-in-healthcare/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{clickworker}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=339b1e0ee27729c19d8a83a99c0e3835}{%
+           family={clickworker},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{bibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorbibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authornamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on 17.5.2024}
+      \field{title}{Wie Künstliche Intelligenz Systeme trainiert werden}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+      \verb{url}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+    \endentry
+    \entry{mauriceneumann.de}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8a0dc5ce03d96cf84d102f2ce041520b}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{fullhash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{bibnamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authorbibnamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authornamehash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \strng{authorfullhash}{8a0dc5ce03d96cf84d102f2ce041520b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed on 17.5.2024}
+      \field{title}{Künstliche Intelligenz im Einsatz: Branchen und Anwendungsgebiete}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://mauriceneumann.de/kuenstliche-intelligenz-im-einsatz-branchen-und-anwendungsgebiete/#:~:text=K%C3%BCnstliche%20Intelligenz%20im%20Einsatz%3A%20Branchen%20und%20Anwendungsgebiete%201,Behandlung%2C%20Robotik%20Diagnoseunterst%C3%BCtzung%202%20Behandlungsoptimierung%203%20Robotergest%C3%BCtzte%20Chirurgie
+      \endverb
+      \verb{url}
+      \verb https://mauriceneumann.de/kuenstliche-intelligenz-im-einsatz-branchen-und-anwendungsgebiete/#:~:text=K%C3%BCnstliche%20Intelligenz%20im%20Einsatz%3A%20Branchen%20und%20Anwendungsgebiete%201,Behandlung%2C%20Robotik%20Diagnoseunterst%C3%BCtzung%202%20Behandlungsoptimierung%203%20Robotergest%C3%BCtzte%20Chirurgie
+      \endverb
+    \endentry
+    \entry{clutch}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b7db5f2c050f6baa8fbd36b42ab748d}{%
+           family={Singh\bibnamedelima Rawat},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Manvirender},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{fullhash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{bibnamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authorbibnamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authornamehash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \strng{authorfullhash}{6b7db5f2c050f6baa8fbd36b42ab748d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accesed on 30.5.2024}
+      \field{title}{Die Vor- und Nachteile von KI/ML im Gesundheitswesen}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cynoteck.com/de/blog-post/the-pros-and-cons-of-ai-in-healthcare/
+      \endverb
+      \verb{url}
+      \verb https://cynoteck.com/de/blog-post/the-pros-and-cons-of-ai-in-healthcare/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
